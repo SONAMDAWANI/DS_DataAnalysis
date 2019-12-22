@@ -6,3 +6,4 @@ Data preprocessing is the most time taking pls crucial step, as it can impact th
 
 So there first we analysed the data, and then performed necessary steps. These steps includes clamping, normalizing, binning etc.
 Please check the report for details:
+https://github.com/SONAMDAWANI/DS_DataAnalysis/blob/master/Data_Preprocessing.pdf
